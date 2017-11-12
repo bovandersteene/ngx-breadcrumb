@@ -1,0 +1,9 @@
+:host{
+  display: flex;
+  div:first-child{
+    width: 200px;
+  }
+  div{
+    display: block;
+  }
+}
